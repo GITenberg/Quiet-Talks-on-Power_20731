@@ -1,0 +1,31 @@
+_repo: Quiet-Talks-on-Power_20731
+_version: 0.1.0
+covers:
+- cover_type: generated
+  image_path: cover.png
+creator:
+  author:
+    agent_name: Gordon, S. D. (Samuel Dickey)
+    alias: Gordon, Samuel Dickey
+    birthdate: 1859
+    deathdate: 1936
+    gutenberg_agent_id: '4409'
+    url: http://www.gutenberg.org/2009/agents/4409
+description: ''
+gutenberg_issued: '2007-03-03'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '20731'
+  lccn: 04002972
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcc 'BR'
+- !lcsh 'Christian life'
+tableOfContents: Choked channels -- The Olivet message -- The channel of power --
+  The price of power -- The personality of power -- Making and breaking connections
+  -- The flood-tide of power -- Fresh supplies of power.
+title: Quiet Talks on Power
+url: http://www.gutenberg.org/ebooks/20731
